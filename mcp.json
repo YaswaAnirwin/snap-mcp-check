@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "instructions-remote-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "C:/Users/DuddeYaswaAnirwin/snap-mcp-plugin/mcp/instructions-remote-mcp.mjs"
+      ]
+    }
+  }
+}
