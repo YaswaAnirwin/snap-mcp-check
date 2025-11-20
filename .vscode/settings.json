@@ -1,0 +1,10 @@
+{
+  "modelContext.mcpServers": {
+    "instructions-remote-mcp": {
+      "command": "node",
+      "args": [
+        "C:/Users/DuddeYaswaAnirwin/snap-mcp-plugin/mcp/instructions-remote-mcp.mjs"
+      ]
+    }
+  }
+}
